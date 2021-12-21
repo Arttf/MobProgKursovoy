@@ -1,0 +1,16 @@
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\bin\Debug\КурсовойМобПрог.exe.config
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\bin\Debug\КурсовойМобПрог.exe
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\bin\Debug\КурсовойМобПрог.pdb
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\obj\Debug\КурсовойМобПрог.csprojAssemblyReference.cache
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\obj\Debug\КурсовойМобПрог.Properties.Resources.resources
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\obj\Debug\КурсовойМобПрог.csproj.GenerateResource.cache
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\obj\Debug\КурсовойМобПрог.csproj.CoreCompileInputs.cache
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\obj\Debug\КурсовойМобПрог.exe
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\obj\Debug\КурсовойМобПрог.pdb
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\bin\Debug\SportContest.dll
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\bin\Debug\SportContest.pdb
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\obj\Debug\КурсовойМобПрог.Mediki.resources
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\obj\Debug\КурсовойМобПрог.Participants.resources
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\obj\Debug\КурсовойМобПрог.Sorevnovan.resources
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\obj\Debug\КурсовойМобПрог.csproj.CopyComplete
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\КурсовойМобПрог\obj\Debug\КурсовойМобПрог.SelectSorevnovan.resources

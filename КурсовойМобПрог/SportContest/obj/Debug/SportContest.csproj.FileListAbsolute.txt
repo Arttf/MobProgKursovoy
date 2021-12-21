@@ -1,0 +1,6 @@
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\SportContest\bin\Debug\SportContest.dll
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\SportContest\bin\Debug\SportContest.pdb
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\SportContest\obj\Debug\SportContest.csprojAssemblyReference.cache
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\SportContest\obj\Debug\SportContest.csproj.CoreCompileInputs.cache
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\SportContest\obj\Debug\SportContest.dll
+C:\Users\Art12\OneDrive\Рабочий стол\МобПрПрога\КурсовойМобПрог\SportContest\obj\Debug\SportContest.pdb
